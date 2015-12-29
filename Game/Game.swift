@@ -10,6 +10,7 @@ import Foundation
 import SceneKit
 
 class Game: NSObject {
+// que es un NSObject. que significa?
     
     var isComplete = false
     var scene : SCNScene!
