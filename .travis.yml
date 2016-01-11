@@ -3,3 +3,4 @@ osx_image: xcode7.2
 xcode_workspace: Game.xcworkspace
 xcode_scheme: iOSGame
 xcode_sdk: iphonesimulator9.2
+xctool_args: -destination "platform=iOS Simulator,name=iPhone 5"
