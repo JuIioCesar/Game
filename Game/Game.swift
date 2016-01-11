@@ -27,6 +27,7 @@ class Game: NSObject {
         
         setupAutomaticCameraPositions()
         setupCamera()
+        setupSounds()
         setupNodes()
         initializeCollectFlowerParticleSystem()
         initializeConfettiParticleSystem()
