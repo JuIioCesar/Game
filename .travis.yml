@@ -1,4 +1,5 @@
 language: objective-c
 osx_image: xcode7.2
 script:
+  - open -a "simulator" --args -CurrentDeviceUDID 2D3A3ACE-76D4-404A-94C7-C6E8611A2718
   - xcodebuild -workspace Game.xcworkspace -scheme iOSGame test -destination "platform=iOS Simulator,name=iPhone 5" -sdk iphonesimulator9.2
