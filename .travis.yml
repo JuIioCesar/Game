@@ -1,3 +1,4 @@
 language: objective-c
+osx_image: xcode7.2
 script:
   - xcodebuild -workspace Game.xcworkspace -scheme iOSGame test -destination "platform=iOS Simulator,name=iPhone 5"
