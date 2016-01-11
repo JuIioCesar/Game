@@ -4,6 +4,3 @@ xcode_workspace: Game.xcworkspace
 xcode_scheme: iOSGame
 xcode_sdk: iphonesimulator9.2
 xctool_args: -destination "platform=iOS Simulator,name=iPhone 5"
-before_install:
-  - brew update
-  - brew upgrade xctool
