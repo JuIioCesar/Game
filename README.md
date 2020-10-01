@@ -6,24 +6,24 @@
 ![](https://img.shields.io/badge/Communication Channel-Slack-blue.svg)
 ![](https://img.shields.io/badge/Twitter-juiiocesar-blue.svg)
 
-Game is a native workspace that contains a basic architecture for game development on iOS, OSX and tvOS. That allows the developer to share code between these platforms
+Game is a native workspace that contains a basic architecture for game development on iOS, OSX and tvOS. It allows the developer to share code between the mentioned platforms.
 
 ##Coding Style
-We are following the [Github's swift style guide](https://github.com/github/swift-style-guide) 
+The [Github's swift style guide](https://github.com/github/swift-style-guide) is being followed.
 
 ##Clean code
-Please remember this points every time you write code
+Please remember the mentioned points every time you code.
 
-* Bad code does too much – Clean code is focused
-* The language you wrote your code with should look like it was made for the problem
-* It should not be redundant
-* Reading your code should be pleasant
-* Can be easily extended by any other developer
-* It should have minimal dependencies
-* Smaller is better
-* It should be expressive
-* Use descriptive variable names
-* Never Cut-and-paste code
+* Bad code does too much – Clean code is focused.
+* The language you wrote your code with, should look like it was made for the problem.
+* It should not be redundant.
+* Reading your code should be a pleasant task.
+* Can be easily extended by any other developer.
+* It should have minimal dependencies.
+* Smaller is better.
+* It should be expressive.
+* Use descriptive variable names.
+* Never Cut-and-paste code.
 * Omit needless code!
 
 ##Contributing
